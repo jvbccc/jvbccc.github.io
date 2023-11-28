@@ -1,3 +1,7 @@
-54.250.237.17
+{
+  "error": "406",
+  "request": "/ip",
+  "data": "If you believe you've received this in error, please open a support request."
+}
 5000
-2023-11-12 01h20s45m928
+2023-11-29 01h26s29m903
